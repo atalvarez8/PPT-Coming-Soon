@@ -1,2 +1,7 @@
-# PPT-Coming-Soon
-Patriot Pedal Tours Placeholder
+## This is the website for Patriot Pedal Tours
+
+Coming Soon
+
+## Project published on Github Pages
+https://atalvarez8.github.io/PatriotPedalTours
+
