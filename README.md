@@ -3,5 +3,5 @@
 Coming Soon
 
 ## Project published on Github Pages
-https://atalvarez8.github.io/PatriotPedalTours
+https://atalvarez8.github.io/PPT-Coming-Soon
 
